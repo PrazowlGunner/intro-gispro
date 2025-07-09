@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 8C5C-1F19
+
+ Directory of C:\Users\admin\Desktop\myProject
+
+07/09/2025  11:05 AM    <DIR>          .
+07/09/2025  11:03 AM    <DIR>          ..
+07/09/2025  11:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,019,923,968 bytes free
